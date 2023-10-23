@@ -30,4 +30,8 @@ The .py files can be broken up into three categories: "solver" files, "driver" f
 + __"Driver"__ files: These files contain all of the code for running the specific experiments to generate all of the plots for the six figures that are displayed in the paper.
 + __"Functions"__ files: These files contain all the the code that define the different types of problems that were tested, i.e., JOS1, SP1, and GKV1, for both the deterministic and stochastic settings.
 
+## In case you cite our work, please refer to the paper:
+
+T. Giovannelli, G. Kent, and L. N. Vicente. Bilevel Optimization with a Multi-Objective Lower-Level Problem: Risk-Neutral and Risk-Averse Formulations. ISE Technical Report 23T-013, Lehigh University, February 2023.
+
 
