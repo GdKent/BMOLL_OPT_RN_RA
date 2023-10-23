@@ -4,7 +4,24 @@ This is the numerical implementation accompanying the paper "Bilevel Optimizatio
 
 ## 1. Software Requirements
 
-The code was implemented in Python 3.9
+The code was implemented in Python 3.9 and requires the following libraries:
+
++ numpy
++ torch
++ torchvision
++ sklearn
++ scipy
++ time
++ random
++ os
++ copy
++ pandas
++ seaborn
++ matplotlib
++ pickle
++ math
++ tarfile
+
 
 
 
